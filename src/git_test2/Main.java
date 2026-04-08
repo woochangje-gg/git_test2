@@ -3,8 +3,8 @@ package git_test2;
 public class Main { 
 	
 	public static void main(String[] args) { 
-		Hello h = new Hello(); 
-		h.say();
-		System.out.println();
+		Hello hello = new Hello(); 
+		hello.say();
+		
 	} 
 } 
